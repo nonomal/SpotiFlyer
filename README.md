@@ -1,3 +1,18 @@
+ We will from now on publish **[PLUGINS](https://gitlab.com/shabinder/soundbound#-disclaimer)** for **[Soundbound](https://soundbound.app)**, which users can install **explicitly** on their own responsibility [(*disclaimer*)](https://gitlab.com/shabinder/soundbound#-disclaimer).
+
+ - [Soundbound Installation Guide.](https://soundbound.app/install)
+   - [Wiki](https://soundbound.app/wiki)
+   - [Telegram](https://soundbound.app/telegram)
+
+![Feature Soundbound](art/soundbound-feature.jpg)
+
+# Soundbound - [Get Now!](https://soundbound.app/) 
+
+---
+> Please refer above for latest updates.
+>  - Spotiflyer itself won't be getting any more updates, 
+>  We all thank you for your support and hope to see you in [Soundbound Telegram Community](https://soundbound.app/telegram). 
+---
 ![Web Cover](art/cover-web.jpg)
 ![Android Cover](art/cover-android.jpg)
 ![Desktop Cover](art/cover-desktop.jpg)
@@ -5,7 +20,7 @@
 
 <a href="https://github.com/Shabinder/SpotiFlyer"><img src="https://github.com/Shabinder/SpotiFlyer/blob/Compose/art/SpotiFlyer.svg" align="left" height="80" width="80" ></a>
 
-# SpotiFlyer
+# [SpotiFlyer](https://spotiflyer.in/)
 - **Kotlin Multiplatform** Music Downloader ,supports **Spotify, Youtube, Gaana, Jio-Saavn and SoundCloud**.
 
 Supports- Playlist, Albums, Tracks. _(If You know Any Source for Episodes/Podcasts create an Issue sharing It.)_
@@ -25,7 +40,7 @@ Supports- Playlist, Albums, Tracks. _(If You know Any Source for Episodes/Podcas
 
 ***Encourage this repo by giving it a Star⭐ .***
 
-SpotiFlyer is an **App**(Written in **Kotlin**), which **aims** to work as:
+[SpotiFlyer](https://app.spotiflyer.in/) is an **App**(Written in **Kotlin**), which **aims** to work as:
   - **Downloads**: Albums, Tracks and Playlists,etc 
   - **Save your Data** ,by not **_Streaming_** your Fav Songs Online again & again(Just Download Them!)
   - **No ADS!** 
@@ -50,12 +65,12 @@ SpotiFlyer is an **App**(Written in **Kotlin**), which **aims** to work as:
 
 | Platform | Download | Status |
 |----------|----------|--------|
-| Android    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=7885FF&label=Android-Apk&logo=android&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.1/SpotiFlyer-3.6.1.apk)| ✅ Stable | 
-| Windows    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=00A8E8&label=Windows-msi&logo=windows&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.1/SpotiFlyer-3.6.1.msi)| ✅ Stable | 
-| Windows-JAR   |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=00719c&label=Windows-jar&logo=windows&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.1/SpotiFlyer-windows-x64-3.6.1.jar)| ✅ Stable | 
-| MacOS-JAR    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=5F85CE&label=MacOS-jar&logo=apple&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.1/SpotiFlyer-macos-x64-3.6.1.jar) | ✅ Stable |
-| Linux-DEB    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=D0074E&label=Linux-deb&logo=debian&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.1/spotiflyer_3.6.1-1_amd64.deb)| ✅ Stable |
-| Linux-JAR    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=EBA201&label=Linux-jar&logo=linux&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.1/SpotiFlyer-linux-x64-3.6.1.jar)| ✅ Stable | 
+| Android    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=7885FF&label=Android-Apk&logo=android&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.3/SpotiFlyer-3.6.3.apk)| ✅ Stable | 
+| Windows    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=00A8E8&label=Windows-msi&logo=windows&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.3/SpotiFlyer-3.6.3.msi)| ✅ Stable | 
+| Windows-JAR   |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=00719c&label=Windows-jar&logo=windows&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.3/SpotiFlyer-windows-x64-3.6.3.jar)| ✅ Stable | 
+| MacOS-JAR    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=5F85CE&label=MacOS-jar&logo=apple&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.3/SpotiFlyer-macos-x64-3.6.3.jar) | ✅ Stable |
+| Linux-DEB    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=D0074E&label=Linux-deb&logo=debian&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.3/spotiflyer_3.6.3-1_amd64.deb)| ✅ Stable |
+| Linux-JAR    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=EBA201&label=Linux-jar&logo=linux&style=for-the-badge)](https://github.com/Shabinder/SpotiFlyer/releases/download/v3.6.3/SpotiFlyer-linux-x64-3.6.3.jar)| ✅ Stable | 
 | Web    |[![Download Button](https://img.shields.io/github/v/release/Shabinder/SpotiFlyer?color=FF7139&label=SpotiFlyer&logo=firefox&style=for-the-badge)](https://shabinder.github.io/SpotiFlyer/) | ⚠️ Beta | 
 
 - To run the `jar` version, you need JAVA installed.
